@@ -1,0 +1,27 @@
+[
+    {
+        "mbl": "A",
+        "pt": "ah",
+        "t": "onomat.",
+        "d": "Onomatopéia representando som de grito/exclamação.",
+        "e_mbl": "A, a, a",
+        "e_pt": "Ah, ah, ah!"
+    },
+    {
+        "mbl": "a",
+        "pt": "já",
+        "t": "adv. temp.",
+        "d": "Numa circunstância passada; antes.",
+        "e_mbl": "A' xit.",
+        "e_pt": "Ele já comeu"
+    },
+    {
+        "mbl": "ãktux",
+        "pt": "dizer de; falar de.",
+        "t": "verb. trans.",
+        "d": "Numa circunstância passada; antes.",
+        "e_mbl": "Tute tikmũ'ũn ãktux.",
+        "e_pt": "Ele falou dos maxakalis."
+    }
+      
+]
