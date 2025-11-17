@@ -1,5 +1,5 @@
 # Tradutor e Dicionário Portugues <> Maxakalí
-Dicionário e tradutor português <=> maxakali, com visualização e busca de palavras individuais.
+Dicionário e tradutor português <=> maxakalí, com visualização e busca de palavras individuais.
 Dicionário feito usando objetos json e tradutor desenvolvido como módulo para a biblioteca [lang_it](https://github.com/Tyfee/lang_it.git) implementado em C++/WASM para uso direto no navegador.
 
 # Fontes e Referências

@@ -22,6 +22,64 @@
         "d": "Numa circunstância passada; antes.",
         "e_mbl": "Tute tikmũ'ũn ãktux.",
         "e_pt": "Ele falou dos maxakalis."
+    },
+    {
+        "mbl": "ã-",
+        "pt": "",
+        "t": "suf. pr. 2p",
+        "d": "Sufixo indicador da 2a pessoa (você/tu).",
+        "e_mbl": "Ãmõg.",
+        "e_pt": "Você vai."
+    },
+    {
+        "mbl": "ãhynãg",
+        "pt": "sempre",
+        "t": "adv. mod.",
+        "d": "Sufixo indicador da 2a pessoa (você/tu).",
+        "e_mbl": "Pananĩy hãmyã ãhĩynãg xegonapet. ",
+        "e_pt": "A dança de Pradinho sempre acontece às segundas-feiras."
+    },
+    {
+        "mbl": "ãmãhĩ",
+        "pt": "o que há?",
+        "t": "verb. intrans.",
+        "d": "Saudação/Cumprimento curto.",
+        "e_mbl": "Tute ãmãhĩ",
+        "e_pt": "Ele os cumprimentou."
+    },
+      {
+        "mbl": "ãmãn",
+        "pt": "vespa",
+        "t": "subst.",
+        "d": "",
+        "e_mbl": "Tik te ãmãn penãhã.",
+        "e_pt": "O indígena viu a vespa."
+    },
+      {
+        "mbl": "ãmãn hep",
+        "pt": "mel da vespa",
+        "t": "subst.",
+        "d": "Saudação/Cumprimento curto.",
+        "e_mbl": "Ha' xip ãmãn hep.",
+        "e_pt": "Havia mel de vespa."
+    },
+      {
+        "mbl": "ãmãnex",
+        "pt": "padre",
+        "t": "subst.",
+        "d": "Saudação/Cumprimento curto.",
+        "e_mbl": "Ha ãmãnex nũn.",
+        "e_pt": "Então um padre chegou. "
+    },
+      {
+        "mbl": "ãmãnex xap",
+        "pt": "sino",
+        "t": "subst.",
+        "d": "Saudação/Cumprimento curto.",
+        "e_mbl": "Ha ãmãnex xap kax.",
+        "e_pt": "O sino tocou."
     }
-      
+
 ]
+
+

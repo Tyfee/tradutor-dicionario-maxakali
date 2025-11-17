@@ -1,20 +1,117 @@
-
 <!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-<link href='index.css' rel='stylesheet'>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script type="module" src="index.js"></script>
+    <link href="index.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="index.js"></script>
+    <title>Dicionário Maxakalí ↔ Português</title>
 </head>
-<html>
-    <h1>Dicionário Maxakalí ↔ Português </h1>
-<input class="searchBar" type="text"/>
-<div id="entries" class="entries"></div>
-<p>
-    Fontes:
-    <br><a href="https://www.sil.org/system/files/reapdata/10/51/13/105113494595837109854129806993147623672/MXDicPT.pdf">Sociedade Internacional de Lingüística (SIL) — Dicionário Maxakalí-Português (Cuiabá, MT, 2005)</a></br>
-<br> <a href="https://etnolinguistica.wdfiles.com/local--files/biblio%3Aantunes-1999-pequeno/Antunes_1999_PequenoDicIndigMaxacali.pdf"> Antunes, Marisa Aparecida Domingos — Pequeno Dicionário Indígena: Maxacalí - Português (1999)</a>
-</br>
-</br>
-</p>
+<body>
 
+    <div class="modeToggle">
+        <button id="btnDic">Dicionário</button>
+        <button id="btnTr">Tradutor</button>
+    </div>
+
+    <div id="dictionarySection">
+        <h1>Dicionário Maxakalí ↔ Português</h1>
+
+        <input class="searchBar" type="text" placeholder="Buscar palavra…"/>
+
+        <div id="entries" class="entries"></div>
+
+        <p class="fontes">
+            <strong>Fontes:</strong><br>
+            <a href="https://www.sil.org/system/files/reapdata/10/51/13/105113494595837109854129806993147623672/MXDicPT.pdf">
+                Sociedade Internacional de Lingüística (SIL) — Dicionário Maxakalí-Português (2005)
+            </a><br>
+            <a href="https://etnolinguistica.wdfiles.com/local--files/biblio%3Aantunes-1999-pequeno/Antunes_1999_PequenoDicIndigMaxacali.pdf">
+                Antunes, Marisa Aparecida Domingos — Pequeno Dicionário Indígena (1999)
+            </a>
+        </p>
+
+        <p class="fontes">
+            <strong>Feito com admiração por Taylor Ferreira</strong><br>
+            <span class="fontes-links">
+                <a href="https://github.com/Tyfee/tradutor-dicionario-maxakali">Repositório Github</a>
+                |
+                <a href="mailto:taylor@tyfee.top">taylor@tyfee.top</a>
+                |
+                <a href="https://cv.tyfee.top">Meu site</a>
+            </span>
+        </p>
+    </div>
+
+   <div id="translatorSection" style="display:none;">
+    <h1>Tradutor Maxakalí ↔ Português</h1>
+
+    <div class="translationModeToggle">
+        <button id="modeMxPt">Maxakalí → Português</button>
+        <button id="modePtMx">Português → Maxakalí</button>
+    </div>
+
+    <textarea id="translatorInput" class="translatorBox" placeholder="Digite o texto para traduzir..."></textarea>
+
+    <div id="translatorOutput" class="translatorOutput"></div>
+
+    <p class="fontes">
+        <strong>Feito com admiração por Taylor Ferreira</strong><br>
+        <span class="fontes-links">
+            <a href="https://github.com/Tyfee/tradutor-dicionario-maxakali">Repositório Github</a>
+            |
+            <a href="mailto:taylor@tyfee.top">taylor@tyfee.top</a>
+            |
+            <a href="https://cv.tyfee.top">Meu site</a>
+        </span>
+    </p>
+</div>
+
+<script>
+    const btnDic = document.getElementById("btnDic");
+    const btnTr = document.getElementById("btnTr");
+
+    const dictionarySection = document.getElementById("dictionarySection");
+    const translatorSection = document.getElementById("translatorSection");
+
+    btnDic.onclick = () => {
+        dictionarySection.style.display = "block";
+        translatorSection.style.display = "none";
+    };
+
+    btnTr.onclick = () => {
+        dictionarySection.style.display = "none";
+        translatorSection.style.display = "block";
+    };
+
+    let translationMode = "mx-pt";
+
+    const modeMxPt = document.getElementById("modeMxPt");
+    const modePtMx = document.getElementById("modePtMx");
+
+    function updateModeButtons() {
+        modeMxPt.classList.remove("selected");
+        modePtMx.classList.remove("selected");
+
+        if (translationMode === "mx-pt") {
+            modeMxPt.classList.add("selected");
+        } else {
+            modePtMx.classList.add("selected");
+        }
+    }
+
+    modeMxPt.onclick = () => {
+        translationMode = "mx-pt";
+        updateModeButtons();
+    };
+
+    modePtMx.onclick = () => {
+        translationMode = "pt-mx";
+        updateModeButtons();
+    };
+
+    updateModeButtons();
+</script>
+
+
+</body>
 </html>
