@@ -78,8 +78,1597 @@
         "d": "Saudação/Cumprimento curto.",
         "e_mbl": "Ha ãmãnex xap kax.",
         "e_pt": "O sino tocou."
+    },
+    {
+        "mbl": "ãmãxak",
+        "pt": "tardezinha",
+        "t": "temp.",
+        "d": "Período do dia ao final da tarde.",
+        "e_mbl": "Ha ãmãxak.",
+        "e_pt": "E era a tardezinha."
+    },
+    {
+        "mbl": "ãmãxaknãg",
+        "pt": "crepúsculo",
+        "t": "temp.",
+        "d": "Período de transição entre o dia e a noite, quando está escurecendo.",
+        "e_mbl": "Yã ãmãxaknãg.",
+        "e_pt": "Já estava escurecendo."
+    },
+    {
+        "mbl": "ãmãxux",
+        "pt": "anta",
+        "t": "subst.",
+        "d": "Animal, tapir.",
+        "e_mbl": "Tu ãmãxux xak.",
+        "e_pt": "Ele caçava anta."
+    },
+    {
+        "mbl": "ãmhok",
+        "pt": "não",
+        "t": "neg.",
+        "d": "Partícula de negação.",
+        "e_mbl": "Pa ãmhok.",
+        "e_pt": "Mas não."
+    },
+    {
+        "mbl": "ãmkak",
+        "pt": "espírito de arara",
+        "t": "spr.",
+        "d": "Entidade espiritual associada à arara.",
+        "e_mbl": "Pa ãmkak xip.",
+        "e_pt": "Mas o espírito arara estava lá."
+    },
+    {
+        "mbl": "ãmkak",
+        "pt": "arara",
+        "t": "subst.",
+        "d": "Ave da família dos psitacídeos.",
+        "e_mbl": "Kakxop te ãmkak penãhã.",
+        "e_pt": "A criança viu uma arara."
+    },
+    {
+        "mbl": "ãmũy",
+        "pt": "noite, escuridão",
+        "t": "temp.",
+        "d": "Período sem luz solar; escuridão.",
+        "e_mbl": "Mõ'yõn ka'ok, ãmũy tox hã.",
+        "e_pt": "Dormiu bem a noite toda."
+    },
+    {
+        "mbl": "ãmũy kote",
+        "pt": "meia-noite",
+        "t": "temp.",
+        "d": "O ponto médio da noite.",
+        "e_mbl": "Ãmũy kote hã yãmũyxop tek tex.",
+        "e_pt": "À meia-noite os espíritos agem."
+    },
+    {
+        "mbl": "ãmũynãg",
+        "pt": "crepúsculo",
+        "t": "temp.",
+        "d": "Período de transição entre o dia e a noite, quando está escurecendo.",
+        "e_mbl": "Yã ãmũynãg.",
+        "e_pt": "Já estava escurecendo."
+    },
+    {
+        "mbl": "ãmũytut",
+        "pt": "zorrilho",
+        "t": "subst.",
+        "d": "Animal, jaritataca.",
+        "e_mbl": "Ha kakxop te ãmũytut putex.",
+        "e_pt": "A criança matou o zorrilho."
+    },
+    {
+        "mbl": "ãmõm",
+        "pt": "nome de espírito",
+        "t": "spr.",
+        "d": "Espírito específico na cosmologia Maxakali.",
+        "e_mbl": "Ha ãmõm pip.",
+        "e_pt": "Havia espíritos de ãmõm."
+    },
+    {
+        "mbl": "ãmot",
+        "pt": "areia",
+        "t": "subst.",
+        "d": "Partículas de rocha finas e soltas.",
+        "e_mbl": "Konãgkux tu' pip ãmot punethok.",
+        "e_pt": "Havia bastante areia na beira do rio."
+    },
+    {
+        "mbl": "ãmot xuxpex",
+        "pt": "sal",
+        "t": "subst.",
+        "d": "Cloreto de sódio, tempero. [areia gostosa]",
+        "e_mbl": "Tay mak pop, ãmot paha xetut pu.",
+        "e_pt": "Recebeu dinheiro e comprou sal para a esposa."
+    },
+    {
+        "mbl": "ãmuk",
+        "pt": "cozinhar",
+        "t": "verb. trans.",
+        "d": "Preparar alimento pelo calor.",
+        "e_mbl": "Ha ãmuk punethok.",
+        "e_pt": "Prepararam muita comida."
+    },
+    {
+        "mbl": "ãmuk xexka",
+        "pt": "festa",
+        "t": "subst.",
+        "d": "Evento social ou celebração com muita comida.",
+        "e_mbl": "Tikmũ'ũn te ãmuk xexka mũy.",
+        "e_pt": "Os maxakalis fizeram uma grande festa."
+    },
+    {
+        "mbl": "ãmũn",
+        "pt": "você mesmo",
+        "t": "pron.",
+        "d": "Pronome reflexivo da segunda pessoa.",
+        "e_mbl": "Ãmũn te' mũy.",
+        "e_pt": "Você mesmo o fez."
+    },
+    {
+        "mbl": "ãmuuh",
+        "pt": "vento",
+        "t": "subst.",
+        "d": "Movimento do ar.",
+        "e_mbl": "Ha ãmuuh te mõ' ko'uk.",
+        "e_pt": "E o vento soprou."
+    },
+    {
+        "mbl": "ãmuxnãg",
+        "pt": "agulha",
+        "t": "subst.",
+        "d": "Ferramenta fina para costura.",
+        "e_mbl": "Ha ãmuxnãg hã' xap.",
+        "e_pt": "E ela o costurou com uma agulha."
+    },
+    {
+        "mbl": "ãmuxnãg tat'ax",
+        "pt": "olho de agulha",
+        "t": "subst.",
+        "d": "Abertura na ponta da agulha por onde passa a linha.",
+        "e_mbl": "Yã ãmuxnãg tat'ax hã' poxit mõgãhã.",
+        "e_pt": "Ela enfiou a linha no olho da agulha."
+    },
+    {
+        "mbl": "ãn",
+        "pt": "ano",
+        "t": "temp.",
+        "d": "Período de doze meses. (Derivada de 'ano').",
+        "e_mbl": "Kakxop ãn xohix te tikoxyuk.",
+        "e_pt": "A criança tem três anos."
+    },
+    {
+        "mbl": "ãnãmok",
+        "pt": "vespa",
+        "t": "subst.",
+        "d": "Inseto voador com ferrão.",
+        "e_mbl": "Ãnãmok te kakxop putop.",
+        "e_pt": "A vespa ferrou a criança."
+    },
+    {
+        "mbl": "aneo",
+        "pt": "despedir, saudar",
+        "t": "verb. intrans.",
+        "d": "Dirigir saudação ou despedida.",
+        "e_mbl": "Ãte 'EpAn pu aneo hõm kamah, hak mũn hã kxape.",
+        "e_pt": "Lembranças ao meu querido amigo Epêneto…."
+    },
+    {
+        "mbl": "anmõg",
+        "pt": "gaita, sanfona, acordeão",
+        "t": "subst.",
+        "d": "Instrumento musical de palhetas.",
+        "e_mbl": "Tik te anmõg hã' kãyãhã.",
+        "e_pt": "O homem tocou numa gaita."
+    },
+    {
+        "mbl": "ãnuk",
+        "pt": "redondo, circular",
+        "t": "mod.",
+        "d": "Com forma de círculo ou esfera.",
+        "e_mbl": "Ha mãyõn ãnuk.",
+        "e_pt": "A lua estava cheia."
+    },
+    {
+        "mbl": "ap",
+        "pt": "não",
+        "t": "neg.",
+        "d": "Partícula de negação.",
+        "e_mbl": "Ap hittup 'ah.",
+        "e_pt": "Ele não estava feliz/com saúde."
+    },
+    {
+        "mbl": "ãpak",
+        "pt": "ouvir sobre",
+        "t": "verb. trans.",
+        "d": "Tomar conhecimento através da audição.",
+        "e_mbl": "Ha tikmũ'ũn te hãm'ãktux ãpak.",
+        "e_pt": "E os maxakalis ouviram a palestra."
+    },
+    {
+        "mbl": "ãpax",
+        "pt": "dizer de, falar de",
+        "t": "verb. trans.",
+        "d": "Forma subjuntiva e imperativa de 'ãpak'.",
+        "e_mbl": "Tute tikmũ'ũn ãktux.",
+        "e_pt": "Ele falou dos maxakalis."
+    },
+    {
+        "mbl": "ãpep",
+        "pt": "deslocar-se de",
+        "t": "verb. intrans.",
+        "d": "Sair de um lugar.",
+        "e_mbl": "Tu ta: – Ãpu, ãpep, ãpep. Kaxíy.",
+        "e_pt": "Ele disse: – Vá, saia daqui."
+    },
+    {
+        "mbl": "ãpihi",
+        "pt": "espírito das aves anhuma",
+        "t": "spr.",
+        "d": "Entidade espiritual associada à anhuma.",
+        "e_mbl": "Ha ãpihi xop nũn.",
+        "e_pt": "Então os espíritos das aves anhuma vieram."
+    },
+    {
+        "mbl": "ãpihi",
+        "pt": "ave anhuma",
+        "t": "subst.",
+        "d": "Ave da espécie Anhima cornuta.",
+        "e_mbl": "Ha ãpihi xohix pip.",
+        "e_pt": "E havia muitas aves anhuma."
+    },
+    {
+        "mbl": "ãpit",
+        "pt": "tocar em, por a mão em",
+        "t": "verb. trans.",
+        "d": "Fazer contato físico com as mãos.",
+        "e_mbl": "Bn te' yõg topixxax ãpit.",
+        "e_pt": "A mulher tocou na roupa dele."
+    },
+    {
+        "mbl": "ãpkahnãg",
+        "pt": "periquito",
+        "t": "subst.",
+        "d": "Pequena ave psitaciforme.",
+        "e_mbl": "Ãpkahnãg kax.",
+        "e_pt": "O periquito piou."
+    },
+    {
+        "mbl": "ãptexop",
+        "pt": "pessoa rica",
+        "t": "pron. mod.",
+        "d": "Aquele que possui muitas riquezas.",
+        "e_mbl": "Ãptexop xexka.",
+        "e_pt": "Você é muito rico."
+    },
+    {
+        "mbl": "ãpu",
+        "pt": "vamos",
+        "t": "interj.",
+        "d": "Usa-se para incentivar alguém a uma ação.",
+        "e_mbl": "Ãpu yãmãg mõg.",
+        "e_pt": "Vamos, embora!"
+    },
+    {
+        "mbl": "ãpxãm",
+        "pt": "varíola",
+        "t": "subst.",
+        "d": "Doença infecciosa.",
+        "e_mbl": "Ãpxãm te tikmũ'ũn kix.",
+        "e_pt": "A varíola tem matado muitos índios."
+    },
+    {
+        "mbl": "ãpxãg",
+        "pt": "bicho de pé",
+        "t": "subst.",
+        "d": "Parasita (Tunga penetrans).",
+        "e_mbl": "Btut tek-tok pata tu ãpxãg xut.",
+        "e_pt": "A mãe tirou o bicho do pé do filho."
+    },
+    {
+        "mbl": "ãta",
+        "pt": "vermelho, amarelo, ruivo, marrom",
+        "t": "mod.",
+        "d": "Cor ou cores quentes.",
+        "e_mbl": "Ãyuhuk xe ãta.",
+        "e_pt": "O não-índio tinha cabelos ruivos."
+    },
+    {
+        "mbl": "ãtak",
+        "pt": "pai, irmão do pai",
+        "t": "subst.",
+        "d": "Termo de parentesco.",
+        "e_mbl": "Yõgnã ãtak pet kopa' pip'ax punethok.",
+        "e_pt": "Na casa do meu pai há muitos lugares para se ficar."
+    },
+    {
+        "mbl": "ãtakxop",
+        "pt": "homens da geração do pai",
+        "t": "subst.",
+        "d": "Grupo de homens da geração do pai de alguém.",
+        "e_mbl": "Yã xukuxxop xix ãtakxop xohix mõg.",
+        "e_pt": "Todas as mulheres mais velhas e os pais de família foram."
+    },
+    {
+        "mbl": "ãte",
+        "pt": "eu",
+        "t": "pron.",
+        "d": "1a pessoa do singular (sujeito).",
+        "e_mbl": "Bgmõg, nax nũã, tu' xuk ãte.",
+        "e_pt": "Fui tirar barro para fazer a cerâmica e o guardei num saco."
+    },
+    {
+        "mbl": "ãtex",
+        "pt": "pular sobre",
+        "t": "verb. trans.",
+        "d": "Saltar por cima de algo.",
+        "e_mbl": "Tikmũ'ũn kutok te puxhep ãtex.",
+        "e_pt": "O jovem maxakali pulou sobre o poço de água."
+    },
+    {
+        "mbl": "ãti",
+        "pt": "ficar juntos",
+        "t": "verb. intrans.",
+        "d": "Reunir-se, estar em conjunto.",
+        "e_mbl": "Tikmũ'ũn te mũptut kopa ãti.",
+        "e_pt": "Os maxakalis ficaram juntos em casa."
+    },
+    {
+        "mbl": "ãtix",
+        "pt": "chuviscar",
+        "t": "verb. intrans.",
+        "d": "Chover fracamente.",
+        "e_mbl": "Hõnhã tex ãtix.",
+        "e_pt": "Chuviscou hoje."
+    },
+    {
+        "mbl": "ãtonnok",
+        "pt": "cobra-cega",
+        "t": "subst.",
+        "d": "Anfíbio da ordem Gymnophiona.",
+        "e_mbl": "Kakxop te ãtonnok paha.",
+        "e_pt": "A criança pegou a cobra-cega."
+    },
+    {
+        "mbl": "ãxa",
+        "pt": "boato, dizem",
+        "t": "part.",
+        "d": "Partícula que indica informação de segunda mão, rumor.",
+        "e_mbl": "Btaknõy xop xohix te 7 tihi ãxa,...",
+        "e_pt": "Havia sete irmãos, dizem,..."
+    },
+    {
+        "mbl": "ãxet'ax",
+        "pt": "nome",
+        "t": "subst.",
+        "d": "Palavra que designa uma pessoa ou coisa.",
+        "e_mbl": "Tute yãy ãxet'ax hõm puyũy hãpxop pop.",
+        "e_pt": "Ele autorizou alguém [deu o nome dele] a comprar o alimento."
+    },
+    {
+        "mbl": "ãxi",
+        "pt": "esfriar",
+        "t": "verb. intrans.",
+        "d": "Tornar-se ou estar frio.",
+        "e_mbl": "Hãm ãxi hã, tikmũ'ũn pata xãy.",
+        "e_pt": "Os pés dos maxakalis doem na época fria."
+    },
+    {
+        "mbl": "axok",
+        "pt": "açúcar",
+        "t": "subst.",
+        "d": "Substância doce. (Derivada de 'açúcar').",
+        "e_mbl": "Tikmũ'ũn te axok putup.",
+        "e_pt": "Os maxakalis gostam de açúcar."
+    },
+    {
+        "mbl": "ãxop",
+        "pt": "vocês",
+        "t": "pron.",
+        "d": "2a pessoa do plural (sujeito).",
+        "e_mbl": "Ãxop yã mõnãyxop hã mõkputox.",
+        "e_pt": "Vocês são os descendentes dos antepassados."
+    },
+    {
+        "mbl": "ãy",
+        "pt": "ó",
+        "t": "interj.",
+        "d": "Interjeição para chamar a atenção.",
+        "e_mbl": "Ãy, ãy!",
+        "e_pt": "Ó, ó!"
+    },
+    {
+        "mbl": "ãy",
+        "pt": "ai, ah",
+        "t": "interj.",
+        "d": "Interjeição que expressa surpresa, dor ou reconhecimento.",
+        "e_mbl": "Tute: – Ãy",
+        "e_pt": "Ele intercalou: – Ah..."
+    },
+    {
+        "mbl": "ãyonat",
+        "pt": "ajudar",
+        "t": "verb. intrans.",
+        "d": "Prestar auxílio. (Derivada de 'ajudar').",
+        "e_mbl": "Tik nõ ãyonat.",
+        "e_pt": "O homem (maxakali) o ajudou."
+    },
+    {
+        "mbl": "ãyuhuk",
+        "pt": "não-índio",
+        "t": "subst.",
+        "d": "Pessoa que não é de origem indígena.",
+        "e_mbl": "Ha ãyuhuk pip xohix.",
+        "e_pt": "Há muitos não-índios."
+    },
+    {
+        "mbl": "e",
+        "pt": "o quê?",
+        "t": "interrog.",
+        "d": "Partícula interrogativa para perguntar sobre algo.",
+        "e_mbl": "E?",
+        "e_pt": "O que?"
+    },
+    {
+        "mbl": "",
+        "pt": "[chorando]",
+        "t": "onomat.",
+        "d": "Representação do som do choro, lamento.",
+        "e_mbl": "...hã ũn xop te: – ẼAA.",
+        "e_pt": "…enquanto as mulheres lamentaram."
+    },
+    {
+        "mbl": "ẼÃ",
+        "pt": "[piando]",
+        "t": "onomat.",
+        "d": "Representação do som do pio de uma ave.",
+        "e_mbl": "Ha kuptap te: – Ẽã, Aã, kaxũy.",
+        "e_pt": "E a coruja pia."
+    },
+    {
+        "mbl": "Aggũy",
+        "pt": "anum preto",
+        "t": "subst.",
+        "d": "Ave da espécie Crotophaga.",
+        "e_mbl": "Kakxop te Aggũy penãhã.",
+        "e_pt": "A criança viu o anum preto."
+    },
+    {
+        "mbl": "ehe",
+        "pt": "costumeiro",
+        "t": "mod.",
+        "d": "De acordo com o hábito, como sempre.",
+        "e_mbl": "Paxok xok ehe.",
+        "e_pt": "Plantou milho como de costume."
+    },
+    {
+        "mbl": "EU",
+        "pt": "[urro de onça]",
+        "t": "onomat.",
+        "d": "Representação do som do urro de uma onça.",
+        "e_mbl": "Ha hãmgãy te: Eu!",
+        "e_pt": "A onça urrou."
+    },
+    {
+        "mbl": "extrem",
+        "pt": "divisa",
+        "t": "subst.",
+        "d": "Limite, fronteira. (Derivada de 'extremo').",
+        "e_mbl": "Ãyuhuk te extrem tu mũnũytut penãhã.",
+        "e_pt": "O não índio vigiou o gado na divisa da sua propriedade."
+    },
+    {
+        "mbl": "EX'E'E'E'E",
+        "pt": "[nenê chorando]",
+        "t": "onomat.",
+        "d": "Representação do som do choro de um bebê.",
+        "e_mbl": "Ha kakxop te: – Ex'e'e'e'e",
+        "e_pt": "E a criança chorou."
+    },
+    {
+        "mbl": "Ẽ'A'A",
+        "pt": "sim",
+        "t": "afirma.",
+        "d": "Partícula de afirmação.",
+        "e_mbl": "Ha tikmũ'ũn te: – Ẽ'A'A.",
+        "e_pt": "E os maxakalis disseram que sim."
+    },
+    {
+        "mbl": "-g",
+        "pt": "eu, me",
+        "t": "pron.",
+        "d": "Sufixo de 1a pessoa do singular (eu/me).",
+        "e_mbl": "Yãpxegnãg hãg mõg.",
+        "e_pt": "Fui sozinho."
+    },
+    {
+        "mbl": "gãg",
+        "pt": "seiva",
+        "t": "subst.",
+        "d": "Líquido nutritivo das plantas.",
+        "e_mbl": "Tikmũ'ũn te gãg tat.",
+        "e_pt": "Os maxakalis carregaram a seiva."
+    },
+    {
+        "mbl": "-gãhã",
+        "pt": "causar",
+        "t": "verb. intrans.",
+        "d": "Fazer com que algo aconteça.",
+        "e_mbl": "Ha yãyã te tik penãhok mõgãhã.",
+        "e_pt": "O ancião guiou o cego (causou que fosse)."
+    },
+    {
+        "mbl": "gahap",
+        "pt": "garrafa",
+        "t": "subst.",
+        "d": "Recipiente para líquidos. (Derivada de 'garrafa').",
+        "e_mbl": "Ãyuhuk te gahap hã xok hep tat.",
+        "e_pt": "Os não-índios levam o leite de vaca numa garrafa."
+    },
+    {
+        "mbl": "gãy",
+        "pt": "irado, furioso, selvagem",
+        "t": "verb. intrans.",
+        "d": "Estar com raiva intensa; ser agressivo.",
+        "e_mbl": "Bgãy, ũtaknõy tu' gãy hup-tex.",
+        "e_pt": "Ele estava furioso com o irmão, portanto o matou."
+    },
+    {
+        "mbl": "gãyãhã",
+        "pt": "irar, enfurecer",
+        "t": "verb. trans.",
+        "d": "Fazer alguém ficar com raiva.",
+        "e_mbl": "Tik kummuk te' nõy xop gãyãhã.",
+        "e_pt": "O malvado enfureceu os outros."
+    },
+    {
+        "mbl": "gãyxop",
+        "pt": "grupo perigoso, inimigos",
+        "t": "subst.",
+        "d": "Coletivo de pessoas hostis ou perigosas.",
+        "e_mbl": "Tikmũ'ũn kuxãnõg, ũgãyxop nũn ha.",
+        "e_pt": "Os maxakalis temiam porque os inimigos se aproximaram."
+    },
+    {
+        "mbl": "gohet",
+        "pt": "governo",
+        "t": "subst.",
+        "d": "Instituição governante. (Derivada de 'governo').",
+        "e_mbl": "Tik te gohet pu tay mak pop.",
+        "e_pt": "O homem recebia dinheiro (impostos) do governo."
+    },
+    {
+        "mbl": "GOK",
+        "pt": "[som de um lamaçal]",
+        "t": "onomat.",
+        "d": "Representação do som de algo caindo na lama.",
+        "e_mbl": "Ha xapup te hãpkox kopa' nãhã, ha: – Gok",
+        "e_pt": "O porco caiu num lamaçal."
+    },
+    {
+        "mbl": "gox",
+        "pt": "emboscar",
+        "t": "verb. intrans.",
+        "d": "Esperar em emboscada para atacar.",
+        "e_mbl": "Ha' gox nã' nũn hãmgãy nũktu xaki puka' xip.",
+        "e_pt": "A onça deixou a estrada, e cercando, voltou para emboscá-los."
+    },
+    {
+        "mbl": "gõy",
+        "pt": "nublado",
+        "t": "mod.",
+        "d": "Coberto de nuvens.",
+        "e_mbl": "Hãmgõy xix hãm axi hã yot .",
+        "e_pt": "Em julho o tempo é frio e nublado."
+    },
+    {
+        "mbl": "gõy",
+        "pt": "fumaça, nuvem",
+        "t": "subst.",
+        "d": "Suspensão de partículas no ar; fumaça ou nuvem.",
+        "e_mbl": "Ha kugõy hã' xit'ax puk.",
+        "e_pt": "E assou o alimento no fogo."
+    },
+    {
+        "mbl": "gõy",
+        "pt": "fumar",
+        "t": "verb. intrans.",
+        "d": "Inalar e exalar a fumaça do tabaco.",
+        "e_mbl": "Tik te kohok gõy.",
+        "e_pt": "O indígena fumava (fumo)."
+    },
+    {
+        "mbl": "gõy yãhã",
+        "pt": "fumar, nublar, toldar",
+        "t": "verb. intrans.",
+        "d": "Produzir fumaça; ficar nublado.",
+        "e_mbl": "Ha Yãyã kohok gõyãhã.",
+        "e_pt": "E o avô fumou [tabaco]."
+    },
+    {
+        "mbl": "gõyãhã",
+        "pt": "fumar",
+        "t": "verb. trans.",
+        "d": "Variante de 'gõy yãhã'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "ha",
+        "pt": "em, de, para",
+        "t": "pospos.",
+        "d": "Posposição que indica local, origem ou destino.",
+        "e_mbl": "Tik nũn hehmAn ha.",
+        "e_pt": "O homem veio buscar remédios."
+    },
+    {
+        "mbl": "ha",
+        "pt": "e",
+        "t": "conj. (sd)",
+        "d": "Conjunção de adição (introduz sujeito diferente).",
+        "e_mbl": "Bktet kohot, ha' puk.",
+        "e_pt": "Cozinhei mandioca aipim e ficou cozido."
+    },
+    {
+        "mbl": "ha",
+        "pt": "a, para",
+        "t": "pospos.",
+        "d": "Posposição que indica direção ou destino.",
+        "e_mbl": "Bn xop mõg kõnãg kox ha.",
+        "e_pt": "As mulheres foram ao rio."
+    },
+    {
+        "mbl": "ha",
+        "pt": "porque",
+        "t": "conj. (sd)",
+        "d": "Conjunção causal (introduz sujeito diferente).",
+        "e_mbl": "Ãyuhuk koit hak gãy.",
+        "e_pt": "Estou com raiva porque o não-índio mentiu."
+    },
+    {
+        "mbl": "hã",
+        "pt": "meio",
+        "t": "mod.",
+        "d": "Modificador que indica parcialidade ou estado intermediário.",
+        "e_mbl": "Tap-tox nahat, ha' pip mõktup-tox, up-tox hã: – Kenep.",
+        "e_pt": "Ela (onça) esmagou a cabeça do homem com os dentes, assim: – kedep."
+    },
+    {
+        "mbl": "hah",
+        "pt": "porque, razão",
+        "t": "conj. (sd)",
+        "d": "Conjunção que indica causa ou motivo (introduz sujeito diferente).",
+        "e_mbl": "Kakxop xax pukpex ũpakut hah.",
+        "e_pt": "A pele da criança estava quente porque ela estava doente."
+    },
+    {
+        "mbl": "hãhãm",
+        "pt": "terra",
+        "t": "subst.",
+        "d": "O planeta; o solo; o mundo.",
+        "e_mbl": "Hõmã Topa te' mũy pexkox xix hahãm.",
+        "e_pt": "Faz muito tempo que Deus fez o céu e a terra."
+    },
+    {
+        "mbl": "HAK",
+        "pt": "[coaxando]",
+        "t": "onomat.",
+        "d": "Representação do som do coaxar de um sapo.",
+        "e_mbl": "Mattuk te: – Hak.",
+        "e_pt": "O sapo coaxou."
+    },
+    {
+        "mbl": "hãm",
+        "pt": "trabalhar, roçar",
+        "t": "verb. intrans.",
+        "d": "Realizar trabalho, especialmente na agricultura (abrir roça).",
+        "e_mbl": "Tik xop hãm ka'ok.",
+        "e_pt": "Os homens trabalham (roçam) intensivamente."
+    },
+    {
+        "mbl": "hãm",
+        "pt": "terra",
+        "t": "subst.",
+        "d": "Forma abreviada de 'hahãm' (solo, chão).",
+        "e_mbl": "Kakxop te hãm tu' nãhã.",
+        "e_pt": "A criança caiu no chão."
+    },
+    {
+        "mbl": "hãm-",
+        "pt": "geral, genérico",
+        "t": "subst.",
+        "d": "Prefixo que indica um sentido geral ou abrangente.",
+        "e_mbl": "Yãyã te hãmyũmmũgãhã yãy mõkputox xop.",
+        "e_pt": "O avô ensinou os descendentes dele."
+    },
+    {
+        "mbl": "hãm mũy",
+        "pt": "se baixar, dobrar",
+        "t": "verb. trans.",
+        "d": "Inclinar o corpo para baixo; curvar-se.",
+        "e_mbl": "Tik te' penãp-tup, hu hãm mũy.",
+        "e_pt": "O homem queria vê-lo, então se dobrou."
+    },
+    {
+        "mbl": "hãm ũm hã",
+        "pt": "quando?",
+        "t": "interrog.",
+        "d": "Expressão para perguntar sobre o tempo de uma ação.",
+        "e_mbl": "Hãm ũm hã ãmõg?",
+        "e_pt": "Quando é que você vai?"
+    },
+    {
+        "mbl": "hãmãnuxxop",
+        "pt": "brincar na terra",
+        "t": "verb. intrans.",
+        "d": "Brincar, referindo-se a brincadeiras no chão.",
+        "e_mbl": "Kakxop te hãmãnuxxop.",
+        "e_pt": "As crianças brincaram (na terra)."
+    },
+    {
+        "mbl": "hãmãxap",
+        "pt": "primeiro",
+        "t": "pospos.",
+        "d": "Antes de tudo; em primeiro lugar.",
+        "e_mbl": "Yũy Topa xax hãmãxap, tu nõm pu ãyũpkox pi, nũy nõ xat'ax mũy...",
+        "e_pt": "Então busque a Deus primeiro e O obedeça para fazer o que Ele mandar..."
+    },
+    {
+        "mbl": "hãmenax",
+        "pt": "comercializar, comprar, vender",
+        "t": "verb. trans.",
+        "d": "Realizar trocas comerciais.",
+        "e_mbl": "Tu hãmenax.",
+        "e_pt": "Comprou/vendeu os itens."
+    },
+    {
+        "mbl": "hãmgãy",
+        "pt": "onça, fera",
+        "t": "subst.",
+        "d": "Animal felino; qualquer animal feroz.",
+        "e_mbl": "Nũktu hãmgãy xip.",
+        "e_pt": "De repente uma onça apareceu."
+    },
+    {
+        "mbl": "hãmgãyãgnãg",
+        "pt": "espírito maligno, diabo",
+        "t": "subst.",
+        "d": "Entidade espiritual maléfica; usada como xingamento.",
+        "e_mbl": "Hãmgãyãgnãg te Yeyox xapit, puyũy hãpkummuk mũy.",
+        "e_pt": "O diabo tentou Jesus para que fizesse o mal."
+    },
+    {
+        "mbl": "hãmgãyãgpãy",
+        "pt": "pecar, fazer o que é errado",
+        "t": "verb. intrans.",
+        "d": "Cometer uma ação moralmente errada.",
+        "e_mbl": "Tikmũ'ũn te hãmgãyãgpãy.",
+        "e_pt": "Os maxakalis fizeram o que é errado."
+    },
+    {
+        "mbl": "hãmgõy",
+        "pt": "nevoeiro",
+        "t": "subst.",
+        "d": "Névoa densa perto do solo.",
+        "e_mbl": "Hãmgõy xexka.",
+        "e_pt": "O nevoeiro era denso."
+    },
+    {
+        "mbl": "hãmhipak",
+        "pt": "floresta grossa",
+        "t": "subst.",
+        "d": "Mata fechada, floresta densa.",
+        "e_mbl": "Mõnãyxop xok hãmhipak kopa.",
+        "e_pt": "O antepassado morreu dentro da floresta grossa."
+    },
+    {
+        "mbl": "hãmhogãhã",
+        "pt": "matar com os dentes",
+        "t": "verb. trans.",
+        "d": "Causar a morte usando os dentes.",
+        "e_mbl": "Hãmgãy te mõnãyxop hãmhogãhã.",
+        "e_pt": "A onça matou o antepassado com os dentes."
+    },
+    {
+        "mbl": "hãmhõgnãg",
+        "pt": "fome, destituição",
+        "t": "subst.",
+        "d": "Estado de falta de alimento ou recursos.",
+        "e_mbl": "Hãmpuknõg yõg tikmũ'ũn te hãmhõgnãg.",
+        "e_pt": "Povos nativos de terras estranhas passam fome."
+    },
+    {
+        "mbl": "hãmhok",
+        "pt": "vazio",
+        "t": "mod.",
+        "d": "Sem conteúdo; oco.",
+        "e_mbl": "Yã hãmhok.",
+        "e_pt": "Está vazio."
+    },
+    {
+        "mbl": "hãmhũmnãg",
+        "pt": "perto, próximo",
+        "t": "loc.",
+        "d": "Pouca distância; na proximidade.",
+        "e_mbl": "Tikmũ'ũn te hãmhũmnãg.",
+        "e_pt": "Os maxakalis estão próximos."
+    },
+    {
+        "mbl": "hãmmaihnãhã",
+        "pt": "abençoar, fazer cumprir coisas boas",
+        "t": "verb. trans.",
+        "d": "Conceder bênçãos; realizar coisas positivas para alguém.",
+        "e_mbl": "Topa tek-mũg ha hãmmaihnãhã.",
+        "e_pt": "Deus cumpriu coisas boas para nós."
+    },
+    {
+        "mbl": "hãmmaxnãhã",
+        "pt": "abençoar",
+        "t": "verb. trans.",
+        "d": "Variante arcaica de 'hãmmaihnãhã'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "hãmmũgmõg",
+        "pt": "arrastar",
+        "t": "verb. trans.",
+        "d": "Puxar algo pelo chão.",
+        "e_mbl": "Kakxop teknõg te hãmmũgmõg.",
+        "e_pt": "As crianças abatidas se arrastam no caminho."
+    },
+    {
+        "mbl": "hãmmũy",
+        "pt": "dobrar",
+        "t": "verb. trans.",
+        "d": "Fazer uma dobra em algo.",
+        "e_mbl": "Tikmũ'ũn te hãmmũy topixxax.",
+        "e_pt": "Os maxakalis dobraram o tecido."
+    },
+    {
+        "mbl": "hãmnã xexka",
+        "pt": "terra desmatada",
+        "t": "subst.",
+        "d": "Área de terra onde a vegetação foi removida.",
+        "e_mbl": "Ãyuhuk yõg hahãm yã hãmnã xexka.",
+        "e_pt": "A terra dos não-índios é bastante desmatada."
+    },
+    {
+        "mbl": "hãmnõgnõy",
+        "pt": "horizonte",
+        "t": "loc.",
+        "d": "Linha aparente onde a terra encontra o céu.",
+        "e_mbl": "Hãmnõgnõy kũnãpa Topa pet xexka yãm.",
+        "e_pt": "Além do horizonte fica a casa grande de Deus."
+    },
+    {
+        "mbl": "hãpkumep",
+        "pt": "passear, andar, viajar",
+        "t": "verb. intrans.",
+        "d": "Deslocar-se por prazer ou para outro lugar.",
+        "e_mbl": "Xukux te hãpkumep.",
+        "e_pt": "Vovó viajou."
+    },
+    {
+        "mbl": "hãpkunutxit",
+        "pt": "varrer, limpar a terra",
+        "t": "verb. trans.",
+        "d": "Remover sujeira do chão; varrer.",
+        "e_mbl": "Tute hãpkunutxit",
+        "e_pt": "Ele limpou a terra."
+    },
+    {
+        "mbl": "hãpkunutxit'ax",
+        "pt": "vassoura",
+        "t": "subst.",
+        "d": "Utensílio usado para varrer.",
+        "e_mbl": "Xukux te hãpkunutxit'ax hã' xit.",
+        "e_pt": "Vovó limpa com uma vassoura."
+    },
+    {
+        "mbl": "hãpkutex'ex",
+        "pt": "brincar, atormentar",
+        "t": "verb. trans.",
+        "d": "Incomodar ou perturbar alguém; brincar de forma incômoda.",
+        "e_mbl": "Tik kummuk te hãpkutex'ex.",
+        "e_pt": "Os malvados os atormentaram."
+    },
+    {
+        "mbl": "hãpkux",
+        "pt": "beira-rio",
+        "t": "loc.",
+        "d": "Área à margem de um rio.",
+        "e_mbl": "Tute hãpkux tu hãmkumep.",
+        "e_pt": "Caminhou ao longo da beira do rio."
+    },
+    {
+        "mbl": "hãpkuxyã",
+        "pt": "horizonte",
+        "t": "loc.",
+        "d": "Linha distante onde o céu parece tocar a terra.",
+        "e_mbl": "Hãpkuxyã te hãptox tu' xip.",
+        "e_pt": "O horizonte está longe."
+    },
+    {
+        "mbl": "hãptapkoa",
+        "pt": "antes da aurora",
+        "t": "temp.",
+        "d": "Período que antecede o amanhecer.",
+        "e_mbl": "Hãptapkoa hã ãtak te yãykoxak.",
+        "e_pt": "Pai acorda antes da aurora."
+    },
+    {
+        "mbl": "hãptopa",
+        "pt": "fora",
+        "t": "loc.",
+        "d": "Do lado de fora; exterior.",
+        "e_mbl": "Puknõg xop te hãptopa' pip.",
+        "e_pt": "Os desconhecidos estavam fora."
+    },
+    {
+        "mbl": "hãptot",
+        "pt": "morro",
+        "t": "subst.",
+        "d": "Elevação de terra; colina.",
+        "e_mbl": "Kakxop te hãptot tuk-tex'ex.",
+        "e_pt": "As crianças brincam em cima do morro."
+    },
+    {
+        "mbl": "hãptox",
+        "pt": "longe, distante",
+        "t": "loc.",
+        "d": "A uma grande distância.",
+        "e_mbl": "Hak-tok te hãptox tu' xip, hã' tak te' penãhã.",
+        "e_pt": "E o filho estava longe quando o pai dele o viu."
+    },
+    {
+        "mbl": "hãptup",
+        "pt": "manhã, dia",
+        "t": "temp.",
+        "d": "Período do dia desde o amanhecer até o meio-dia.",
+        "e_mbl": "Hãptup hã tikmũ'ũn te napet ha' mõg.",
+        "e_pt": "Ao amanhecer os maxakalis foram para a feira."
+    },
+    {
+        "mbl": "hãptup putut",
+        "pt": "amanhã",
+        "t": "temp.",
+        "d": "O dia seguinte ao atual.",
+        "e_mbl": "Hãptup putut hã tikmũ'ũn te hãpkumep putup.",
+        "e_pt": "Os maxakalis pretendem viajar amanhã."
+    },
+    {
+        "mbl": "hãpxa",
+        "pt": "campo, roça",
+        "t": "subst.",
+        "d": "Área de terra cultivada; roça. (Variante de 'hãmxa').",
+        "e_mbl": "Tik te hãpxa mũy.",
+        "e_pt": "O homem fez uma roça."
+    },
+    {
+        "mbl": "hãpxaha",
+        "pt": "roçar",
+        "t": "verb. trans.",
+        "d": "Limpar o terreno para plantio.",
+        "e_mbl": "Tikmũ'ũn te hãpxaha.",
+        "e_pt": "Os maxakalis estão roçando."
+    },
+    {
+        "mbl": "hãpxahit",
+        "pt": "vale",
+        "t": "loc.",
+        "d": "Depressão de terra entre montanhas ou colinas.",
+        "e_mbl": "Bmõg hãpxahit ha.",
+        "e_pt": "Ele foi para o vale."
+    },
+    {
+        "mbl": "hãpxap",
+        "pt": "bolinha de barro",
+        "t": "subst.",
+        "d": "Pequena esfera de barro usada com bodoque.",
+        "e_mbl": "Kakxop te hãpxap mũy.",
+        "e_pt": "O menino fez bolinhas de barro."
+    },
+    {
+        "mbl": "hãpxapkup",
+        "pt": "bodoque",
+        "t": "subst.",
+        "d": "Arma de pressão para atirar bolinhas de barro.",
+        "e_mbl": "Tik te' mũy hãpxapkup.",
+        "e_pt": "O homem fez um bodoque."
+    },
+    {
+        "mbl": "hãpxep",
+        "pt": "pátio para dança",
+        "t": "subst.",
+        "d": "Área aberta em frente à casa de cultos para cerimônias.",
+        "e_mbl": "Tikmũ'ũn te hãpxep tu' hãmyã.",
+        "e_pt": "Os maxakalis dançaram no pátio da aldeia."
+    },
+    {
+        "mbl": "hãpxet",
+        "pt": "apenas um, solitário",
+        "t": "mod.",
+        "d": "Sozinho; único.",
+        "e_mbl": "Kakxop te hãpxet xip.",
+        "e_pt": "A criança estava sozinha."
+    },
+    {
+        "mbl": "hãpxexka",
+        "pt": "país, terra grande",
+        "t": "subst.",
+        "d": "Nação; território extenso.",
+        "e_mbl": "Ãyuhuk punethok te hãpxexka kopa' pip.",
+        "e_pt": "Há muitos não-índios no país."
+    },
+    {
+        "mbl": "hãpxe'e",
+        "pt": "verdade",
+        "t": "subst.",
+        "d": "Aquilo que é real ou factual.",
+        "e_mbl": "Topa te hãpxe'e ãktux.",
+        "e_pt": "Deus conta a verdade."
+    },
+    {
+        "mbl": "hãpxip",
+        "pt": "algum tempo depois, faz algum tempo",
+        "t": "temp.",
+        "d": "Há algum tempo atrás; após um intervalo.",
+        "e_mbl": "Hãpxip hã' xape xop mõg komAn tu.",
+        "e_pt": "Faz algum tempo que os parentes foram para o comércio."
+    },
+    {
+        "mbl": "hãpxip ohnãg",
+        "pt": "imediatamente",
+        "t": "temp.",
+        "d": "Sem demora; no mesmo instante.",
+        "e_mbl": "Hãpxip ohnãg hã hãmgãy te mõnãyxop mũg.",
+        "e_pt": "Imediatamente a onça atacou o antepassado."
+    },
+    {
+        "mbl": "hãpxip punethok tap",
+        "pt": "passado muito tempo",
+        "t": "temp.",
+        "d": "Depois de um longo período.",
+        "e_mbl": "Hãpxip punethok tap, ũk-tok te putpu' nũn.",
+        "e_pt": "Depois de muito tempo, o filho retornou."
+    },
+    {
+        "mbl": "hãpxõn",
+        "pt": "abrir",
+        "t": "verb. intrans.",
+        "d": "Chamar para que abram a porta; anunciar chegada.",
+        "e_mbl": "Ha tikmũ'ũn te: – Hãpxõn!",
+        "e_pt": "O maxakali chamou: – Abra a porta!"
+    },
+    {
+        "mbl": "hãpxop",
+        "pt": "coisa, comida",
+        "t": "subst.",
+        "d": "Objeto genérico; alimento; mantimento.",
+        "e_mbl": "Tikmũ'ũn mõg nã pet ha nũy hãpxop pop.",
+        "e_pt": "Os maxakalis vão à feira para comprar mantimentos."
+    },
+    {
+        "mbl": "hãpxophepxũy",
+        "pt": "uísque",
+        "t": "subst.",
+        "d": "Bebida alcoólica destilada.",
+        "e_mbl": "Hãpxophepxũy te kexmuk putup.",
+        "e_pt": "O uísque parece cachaça."
+    },
+    {
+        "mbl": "hãpxopmãhã",
+        "pt": "cumprir, executar",
+        "t": "verb. trans.",
+        "d": "Realizar ou concluir uma tarefa.",
+        "e_mbl": "Hõmã, hãmyãxatamuk xohix hã, mõnãyxop te hãpxopmãhã.",
+        "e_pt": "Faz muitos anos que os antepassados conseguiram."
+    },
+    {
+        "mbl": "hãpxopxap",
+        "pt": "semente",
+        "t": "subst.",
+        "d": "Grão ou unidade de reprodução das plantas.",
+        "e_mbl": "Hãpxopxap penã hã, ũghittup ũpenãhã.",
+        "e_pt": "Quando vi a semente, fiquei alegre."
+    },
+    {
+        "mbl": "hãpxukpot",
+        "pt": "cemitério, lugar de enterro",
+        "t": "subst.",
+        "d": "Local onde os mortos são sepultados.",
+        "e_mbl": "Ãte hãpxukpot penãhã.",
+        "e_pt": "Vi o campo de enterro."
+    },
+    {
+        "mbl": "hãpxummãhã",
+        "pt": "espalhar",
+        "t": "verb. trans.",
+        "d": "Distribuir algo sobre uma área.",
+        "e_mbl": "Tik te hãpxummãhã.",
+        "e_pt": "O homem o espalhou."
+    },
+    {
+        "mbl": "hãpxux",
+        "pt": "ervas, mato",
+        "t": "subst.",
+        "d": "Vegetação rasteira; capim.",
+        "e_mbl": "Tikmũ'ũn te hãpxux xit.",
+        "e_pt": "Os maxakalis limparam o mato."
+    },
+    {
+        "mbl": "hato'a",
+        "pt": "para lá, outro lado",
+        "t": "pospos.",
+        "d": "Indica direção para o lado oposto.",
+        "e_mbl": "KomAn hato'a ãyuhuk pet yãm.",
+        "e_pt": "No outro lado do comércio fica a casa do não-índio."
+    },
+    {
+        "mbl": "hax",
+        "pt": "beijar",
+        "t": "verb. trans.",
+        "d": "Tocar com os lábios em sinal de afeto. (Derivada da impressão de que está cheirando).",
+        "e_mbl": "Ãyuhuk hex tek-tok hax.",
+        "e_pt": "A mulher não-índio beija o filho dela."
+    },
+    {
+        "mbl": "hax",
+        "pt": "cheirar",
+        "t": "verb. trans.",
+        "d": "Perceber o odor de algo.",
+        "e_mbl": "Bn te xogyũn mõ'hap ha' hax max.",
+        "e_pt": "A mulher assou a carne e o cheiro estava uma delícia."
+    },
+    {
+        "mbl": "haxnãg",
+        "pt": "perfumado",
+        "t": "verb. intrans.",
+        "d": "Que tem cheiro agradável.",
+        "e_mbl": "Tukũm te hãpxop haxnãg paha.",
+        "e_pt": "Minha filha comprou perfume."
+    },
+    {
+        "mbl": "haxyãhã",
+        "pt": "soltar um perfume",
+        "t": "verb. intrans.",
+        "d": "Emitir um aroma; causar um cheiro agradável.",
+        "e_mbl": "Ha gahapnãg te haxyãhã.",
+        "e_pt": "O vidrinho soltou um perfume."
+    },
+    {
+        "mbl": "HE",
+        "pt": "[arquejando]",
+        "t": "onomat.",
+        "d": "Representação do som de respiração ofegante.",
+        "e_mbl": "Tu' pip axa hu: – He, he, he, he.",
+        "e_pt": "Ele deitou arquejando."
+    },
+    {
+        "mbl": "hehmAn",
+        "pt": "remédio",
+        "t": "subst.",
+        "d": "Substância usada para tratar doenças. (Derivada de 'remédio').",
+        "e_mbl": "Tikmũ'ũn mõg nõ pox ha nũy hehmAn pop.",
+        "e_pt": "Os maxakalis vão para o posto em busca de remédios."
+    },
+    {
+        "mbl": "hAnã",
+        "pt": "olha aqui!",
+        "t": "interj.",
+        "d": "Chamada para atrair a atenção. (Forma abreviada e imperativa de 'hũnãhã').",
+        "e_mbl": "Ha ũn te: – HAnã!",
+        "e_pt": "E a mulher chamou: Olhe aqui!"
+    },
+    {
+        "mbl": "hAnãhã",
+        "pt": "olhe aqui",
+        "t": "verb. trans.",
+        "d": "Chamar a atenção de alguém para algo. (Forma extensa).",
+        "e_mbl": "Ha tik te' nõy hAnãhã.",
+        "e_pt": "E um homem (maxakali) chamou o outro para olhar."
+    },
+    {
+        "mbl": "hAnãhã",
+        "pt": "olhe aqui",
+        "t": "verb. imper.",
+        "d": "Forma imperativa do verbo.",
+        "e_mbl": "Ha: – HAnãhã!",
+        "e_pt": "(Alguém disse): – Olhe aqui!"
+    },
+    {
+        "mbl": "henox",
+        "pt": "relógio",
+        "t": "subst.",
+        "d": "Instrumento para medir o tempo. (Derivada de 'relógio').",
+        "e_mbl": "Tik xop te henox tat.",
+        "e_pt": "Os homens usam relógios de pulso."
+    },
+    {
+        "mbl": "hep",
+        "pt": "sangue, seiva, líquido",
+        "t": "subst.",
+        "d": "Líquido vital; seiva de plantas.",
+        "e_mbl": "Nũ' hep mõ'nãhã, hep punet'ah.",
+        "e_pt": "O sangue derramou aqui, mas não foi muito."
+    },
+    {
+        "mbl": "hep tox",
+        "pt": "óleo",
+        "t": "subst.",
+        "d": "Substância gordurosa líquida.",
+        "e_mbl": "Tikmũ'ũn te hep tox xak nũy xuxnãg kutet.",
+        "e_pt": "Os maxakalis carecem de óleo para cozinhar o arroz."
+    },
+    {
+        "mbl": "hep tat",
+        "pt": "levar um líquido",
+        "t": "verb. trans.",
+        "d": "Transportar um fluido.",
+        "e_mbl": "Tikmũ'ũn te xok hep tat.",
+        "e_pt": "Os maxakalis levam o leite de vaca."
+    },
+    {
+        "mbl": "heptat'ax",
+        "pt": "via sanguínea, garrafa",
+        "t": "subst.",
+        "d": "Vaso sanguíneo; recipiente para líquidos.",
+        "e_mbl": "Mõnãyxop te' heptat'ax xak.",
+        "e_pt": "O antepassado cortou uma via sanguínea."
+    },
+    {
+        "mbl": "hetanat",
+        "pt": "retrato",
+        "t": "subst.",
+        "d": "Representação visual de uma pessoa ou coisa. (Derivada de 'retrato').",
+        "e_mbl": "Ãyuhuk te kakxop hetanat xut.",
+        "e_pt": "O não-índio bateu uma foto das crianças."
+    },
+    {
+        "mbl": "HEX",
+        "pt": "[voz infantil]",
+        "t": "onomat.",
+        "d": "Representação do som de vozes de crianças.",
+        "e_mbl": "Ha: – Hex, hex, hex.",
+        "e_pt": "E [ouviram] as vozes de crianças."
+    },
+    {
+        "mbl": "hex",
+        "pt": "do sexo feminino",
+        "t": "subst.",
+        "d": "Termo para fêmea de animal.",
+        "e_mbl": "Ha kamãnok hex yãmũ' mõg.",
+        "e_pt": "E montou numa égua."
+    },
+    {
+        "mbl": "hex",
+        "pt": "irmã de um homem",
+        "t": "subst.",
+        "d": "Termo de parentesco de referência.",
+        "e_mbl": "Ha tik te' hex xãnãhã.",
+        "e_pt": "E o homem chamou a irmã."
+    },
+    {
+        "mbl": "he'e",
+        "pt": "concordar, sim",
+        "t": "afirma.",
+        "d": "Expressão de assentimento. (Variante de 'hũ'ũ').",
+        "e_mbl": "Ha mõnãyxop te: – He'e.",
+        "e_pt": "E o antepassado disse: – Sim."
+    },
+    {
+        "mbl": "hA'A",
+        "pt": "sim",
+        "t": "afirma.",
+        "d": "Expressão de afirmação.",
+        "e_mbl": "Ha Topa te: – HA'A.",
+        "e_pt": "E Topa acenou que sim."
+    },
+    {
+        "mbl": "hi",
+        "pt": "saciar, satisfazer",
+        "t": "verb. intrans.",
+        "d": "Ficar com a fome ou sede satisfeita.",
+        "e_mbl": "Tikmũ'ũn te hãpxop mãhã, tu mõktu' hi.",
+        "e_pt": "Os maxakalis comeram até estarem satisfeitos."
+    },
+    {
+        "mbl": "hi",
+        "pt": "viver",
+        "t": "verb. intrans.",
+        "d": "Estar vivo; ter vida.",
+        "e_mbl": "Ap xip'ah Yeyox, yã' putpu' hi.",
+        "e_pt": "Jesus não está aqui, ele vive de novo."
+    },
+    {
+        "mbl": "hi ka'ok",
+        "pt": "comer muito",
+        "t": "verb. intrans.",
+        "d": "Alimentar-se em grande quantidade. (Variante de 'hix ka'ok').",
+        "e_mbl": "Ha ãmuk xexka yũy tikmũ'ũn hi ka'ok.",
+        "e_pt": "Havia festa, por isso os maxakalis comeram muito."
+    },
+    {
+        "mbl": "hi tapax",
+        "pt": "recuperar os sentidos",
+        "t": "verb. intrans.",
+        "d": "Voltar a si após desmaio ou embriaguez.",
+        "e_mbl": "Ha' xok putup pãyã' hi tapax.",
+        "e_pt": "Ele estava inconsciente, mas recuperou os sentidos."
+    },
+    {
+        "mbl": "hũnnãhã",
+        "pt": "restaurar a vida, fazer viver",
+        "t": "verb. trans.",
+        "d": "Devolver a vida a alguém; revitalizar.",
+        "e_mbl": "Topa te' xohix hũnnãhã.",
+        "e_pt": "Deus deu a vida para todos."
+    },
+    {
+        "mbl": "hip",
+        "pt": "esperar, aguardar",
+        "t": "verb. trans.",
+        "d": "Ficar à espera de alguém ou algo.",
+        "e_mbl": "Tikmũ'ũn te' nõy putup pax, puxi' hip, tu nõã'tot.",
+        "e_pt": "Quando um maxakali gosta do outro, ele espera e o agüenta."
+    },
+    {
+        "mbl": "hit",
+        "pt": "ficar",
+        "t": "verb. intrans.",
+        "d": "Permanecer em um lugar.",
+        "e_mbl": "Ak mõg putup'ah, yãk hit.",
+        "e_pt": "Não quero ir, fico."
+    },
+    {
+        "mbl": "hitop",
+        "pt": "em vão",
+        "t": "mod.",
+        "d": "Sem sucesso; sem resultado.",
+        "e_mbl": "Mãy hũtop mõg hehmAn ha.",
+        "e_pt": "Mãe buscou remédio em vão."
+    },
+    {
+        "mbl": "hittap",
+        "pt": "velho, antigo, arcaico",
+        "t": "mod.",
+        "d": "Que existe há muito tempo; antigo.",
+        "e_mbl": "Tikmũ'ũn te mõnãyxop hittap ãktux",
+        "e_pt": "Os maxakalis contam dos ancestrais antigos."
+    },
+    {
+        "mbl": "hittup",
+        "pt": "estar alegre, saudável",
+        "t": "verb. intrans.",
+        "d": "Estar de boa saúde ou bom humor.",
+        "e_mbl": "Kakxop hittup.",
+        "e_pt": "A criança estava bem/feliz."
+    },
+    {
+        "mbl": "hittupmãhã",
+        "pt": "curar, fazer feliz",
+        "t": "verb. trans.",
+        "d": "Restaurar a saúde; causar felicidade.",
+        "e_mbl": "Bn te' yũpxox hittupmãhã.",
+        "e_pt": "A mulher fez o marido dela feliz."
+    },
+    {
+        "mbl": "hix",
+        "pt": "viver, saciar",
+        "t": "verb. intrans.",
+        "d": "Variante de 'hi'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "hix",
+        "pt": "amarrar",
+        "t": "verb. trans.",
+        "d": "Variante de 'hũy'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "hix ka'ok",
+        "pt": "comer muito",
+        "t": "verb. intrans.",
+        "d": "Variante de 'hi ka'ok'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "hũy",
+        "pt": "amarrar",
+        "t": "verb. trans.",
+        "d": "Prender com um laço ou corda.",
+        "e_mbl": "Tute kokex hũy, yã' tox hã' hũy.",
+        "e_pt": "Ele amarrou o cachorro, o amarrou com um cipó."
+    },
+    {
+        "mbl": "hũynãg",
+        "pt": "prolongado, estendido",
+        "t": "mod.",
+        "d": "Que dura por um longo tempo.",
+        "e_mbl": "Tikmũ'ũn te hãmyã hũynãg.",
+        "e_pt": "Os maxakalis dançaram por um longo tempo."
+    },
+    {
+        "mbl": "HO",
+        "pt": "[gritando]",
+        "t": "onomat.",
+        "d": "Representação de um grito.",
+        "e_mbl": "Ha mõnãyxop te: – Ho.",
+        "e_pt": "E o antepassado gritou."
+    },
+    {
+        "mbl": "hok",
+        "pt": "falta, vazio",
+        "t": "neg.",
+        "d": "Ausência de algo.",
+        "e_mbl": "Tikmũ'ũn te tay mak hok xip.",
+        "e_pt": "Os maxakalis estão sem dinheiro."
+    },
+    {
+        "mbl": "hok",
+        "pt": "não!",
+        "t": "neg. (imper.)",
+        "d": "Partícula de proibição no imperativo.",
+        "e_mbl": "Ãmõg hok!",
+        "e_pt": "Não vá!"
+    },
+    {
+        "mbl": "hok",
+        "pt": "em vão, por nada",
+        "t": "mod.",
+        "d": "Sem propósito ou resultado.",
+        "e_mbl": "Yũmmũg mõg hehmAn ha, pãyã' hok tuk mõg.",
+        "e_pt": "Nós fomos buscar remédios mas não tivemos sucesso."
+    },
+    {
+        "mbl": "hok hõm",
+        "pt": "doar",
+        "t": "verb. trans.",
+        "d": "Dar algo de graça; presentear.",
+        "e_mbl": "Ãyuhuk te topixxax ũhok tu' hõm.",
+        "e_pt": "O não-índio doou-lhe roupa."
+    },
+    {
+        "mbl": "hok xip",
+        "pt": "estar solitário, solteiro",
+        "t": "verb. intrans.",
+        "d": "Viver sozinho (homem solteiro ou viúvo).",
+        "e_mbl": "Tik hok xip.",
+        "e_pt": "O homem mora sozinho."
+    },
+    {
+        "mbl": "hok yãm",
+        "pt": "estar solitária, ser solteira",
+        "t": "verb. intrans.",
+        "d": "Viver sozinha (mulher solteira ou viúva).",
+        "e_mbl": "Bn hok yãm.",
+        "e_pt": "A mulher mora sozinha."
+    },
+    {
+        "mbl": "hõm",
+        "pt": "dar, pagar",
+        "t": "verb. trans.",
+        "d": "Transferir a posse de algo; remunerar. (Forma singular).",
+        "e_mbl": "Ã' hõm topixxax.",
+        "e_pt": "Me dá roupa."
+    },
+    {
+        "mbl": "hõmã",
+        "pt": "tempo remoto",
+        "t": "temp.",
+        "d": "Há muito tempo atrás; era antiga.",
+        "e_mbl": "Hõmã, hãmyãxatamuk xohix hã, mõnãyxop xohi' mãm.",
+        "e_pt": "Há muitos anos existiam muitos antepassados."
+    },
+    {
+        "mbl": "homi",
+        "pt": "além",
+        "t": "pospos.",
+        "d": "Do outro lado; mais adiante.",
+        "e_mbl": "Tik te yãy pet mũy Mãkpa homi.",
+        "e_pt": "O homem construiu uma casa própria além de Mãkpa."
+    },
+    {
+        "mbl": "honex",
+        "pt": "rodagem, estrada",
+        "t": "subst.",
+        "d": "Caminho para veículos; estrada. (Derivada de 'rodagem').",
+        "e_mbl": "Nõ Pox yõg yip mõg honex hã.",
+        "e_pt": "O jipe do Posto andou na rodagem."
+    },
+    {
+        "mbl": "hõnhã",
+        "pt": "agora, hoje",
+        "t": "temp.",
+        "d": "No dia presente; no momento atual.",
+        "e_mbl": "Hõnhã yã yenomũy.",
+        "e_pt": "Hoje é domingo."
+    },
+    {
+        "mbl": "HOO",
+        "pt": "[perguntando]",
+        "t": "onomat.",
+        "d": "Representação de um som de interrogação ou chamado.",
+        "e_mbl": "Tu: – Hoo?",
+        "e_pt": "Disse: – Hã?"
+    },
+    {
+        "mbl": "HOOOO",
+        "pt": "[ventando]",
+        "t": "onomat.",
+        "d": "Representação do som do vento.",
+        "e_mbl": "Ha ãmuh te: – Hoooo.",
+        "e_pt": "Estava ventando: – Hooo."
+    },
+    {
+        "mbl": "HOOOO",
+        "pt": "[zumbindo]",
+        "t": "onomat.",
+        "d": "Representação de um zumbido. (Variante).",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "HOOOOO",
+        "pt": "[zumbindo]",
+        "t": "onomat.",
+        "d": "Representação de um zumbido.",
+        "e_mbl": "Ha: – Hooooo.",
+        "e_pt": "Ouviu [algo] zumbindo."
+    },
+    {
+        "mbl": "hu",
+        "pt": "então",
+        "t": "conj. (ms)",
+        "d": "Conjunção que introduz uma citação (mesmo sujeito).",
+        "e_mbl": "Axa mõnãyxop ũm te xe mũm topnãg xak hu: – Ãpu, ãpu yãmũp-tex. Kaxũy.",
+        "e_pt": "Um antepassado cortou um pau grosso e disse: – Vamos matá-lo."
+    },
+    {
+        "mbl": "humnãg",
+        "pt": "uma rã, um sapo",
+        "t": "subst.",
+        "d": "Anfíbio anuro. (Variante de 'hupnãg').",
+        "e_mbl": "Humnãg te: – Pũn, pũn, pũn.",
+        "e_pt": "A rã pulava."
+    },
+    {
+        "mbl": "hũmnãg",
+        "pt": "curto, estreito",
+        "t": "mod.",
+        "d": "De pequeno comprimento ou largura.",
+        "e_mbl": "Poxit yã hũmnãg.",
+        "e_pt": "O fio de algodão é curto."
+    },
+    {
+        "mbl": "hup",
+        "pt": "parar, alto",
+        "t": "verb. intrans.",
+        "d": "Cessar um movimento; interromper.",
+        "e_mbl": "Tikmũ'ũn te: – Ãhup!",
+        "e_pt": "O indígena gritou: – Pare!"
+    },
+    {
+        "mbl": "hupmãhã",
+        "pt": "envergonhar, fazer parar",
+        "t": "verb. trans.",
+        "d": "Causar vergonha; fazer alguém parar.",
+        "e_mbl": "Tikmũ'ũn te' nõy pu hupmãhã.",
+        "e_pt": "Alguém envergonhou uma outra pessoa."
+    },
+    {
+        "mbl": "hupnãg",
+        "pt": "rã, sapo",
+        "t": "subst.",
+        "d": "Variante de 'humnãg'.",
+        "e_mbl": "Humnãg te: – Pũn, pũn, pũn.",
+        "e_pt": "A rã pulava."
     }
-
 ]
-
-
