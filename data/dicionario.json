@@ -1670,5 +1670,677 @@
         "d": "Variante de 'humnãg'.",
         "e_mbl": "Humnãg te: – Pũn, pũn, pũn.",
         "e_pt": "A rã pulava."
+    },
+    {
+        "mbl": "HŨY",
+        "pt": "[grunhindo]",
+        "t": "onomat.",
+        "d": "Representação do som de um grunhido.",
+        "e_mbl": "Ha: – Hũy.",
+        "e_pt": "Grunhiu."
+    },
+    {
+        "mbl": "hu'u",
+        "pt": "assentir",
+        "t": "afirma.",
+        "d": "Expressão de concordância.",
+        "e_mbl": "Ha: –Hu'u. Kaxũy.",
+        "e_pt": "O outro concordou, 'É'."
+    },
+    {
+        "mbl": "IEI",
+        "pt": "[gritando]",
+        "t": "onomat.",
+        "d": "Representação de um grito.",
+        "e_mbl": "Ha: –Iei.",
+        "e_pt": "Gritaram."
+    },
+    {
+        "mbl": "hũgãnãhã",
+        "pt": "juntos",
+        "t": "mod.",
+        "d": "Em conjunto; coletivamente.",
+        "e_mbl": "Tu kakxop pu hãm'ãktux hũgãnãhã.",
+        "e_pt": "Ele falou com toda a criançada."
+    },
+    {
+        "mbl": "hã",
+        "pt": "enquanto, quando",
+        "t": "conj.",
+        "d": "Conjunção temporal.",
+        "e_mbl": "Hu mõ'yõn hã mõktu' nõy xupep.",
+        "e_pt": "Então dormia enquanto o outro chegou."
+    },
+    {
+        "mbl": "hũmok",
+        "pt": "cachoeira",
+        "t": "subst.",
+        "d": "Queda-d'água; cascata.",
+        "e_mbl": "Tu hũmok tu' xupep.",
+        "e_pt": "Ele chegou até a cachoeira."
+    },
+    {
+        "mbl": "hũnhip",
+        "pt": "lesma",
+        "t": "subst.",
+        "d": "Molusco gastrópode.",
+        "e_mbl": "Bn te hũnhip penãhã.",
+        "e_pt": "A mulher viu uma lesma."
+    },
+    {
+        "mbl": "hũnmõxa",
+        "pt": "espírito da onça pelada",
+        "t": "spr.",
+        "d": "Entidade espiritual associada à onça-parda.",
+        "e_mbl": "Bn xop te hũnmõxa yũpkutuk.",
+        "e_pt": "As mulheres temem o espírito da onça pelada."
+    },
+    {
+        "mbl": "hũno'at",
+        "pt": "perereca",
+        "t": "subst.",
+        "d": "Pequeno anfíbio da família Hylidae.",
+        "e_mbl": "Kakxop hex te hũno'at penãhã.",
+        "e_pt": "A menina viu a perereca."
+    },
+    {
+        "mbl": "hũnxux",
+        "pt": "erupção na pele",
+        "t": "subst.",
+        "d": "Irritação ou doença de pele.",
+        "e_mbl": "Ha' yãy akoho, hũnxux tu.",
+        "e_pt": "Ele se coçou por causa da erupção na pele."
+    },
+    {
+        "mbl": "hũnyõnxit",
+        "pt": "besouro",
+        "t": "subst.",
+        "d": "Inseto da ordem Coleoptera.",
+        "e_mbl": "Yã hũnyõnxit punethok.",
+        "e_pt": "Havia muitos besouros."
+    },
+    {
+        "mbl": "hũptut",
+        "pt": "dedo polegar",
+        "t": "subst.",
+        "d": "Primeiro dedo da mão. (Forma abreviada de 'yĩptut').",
+        "e_mbl": "Tik hũptut xãy.",
+        "e_pt": "O dedo polegar do homem doía."
+    },
+    {
+        "mbl": "hũyã'hũgã",
+        "pt": "sujo, imundo, emporcalhado",
+        "t": "mod.",
+        "d": "Que não está limpo; sujo.",
+        "e_mbl": "Pa hãpkox kopah hũyã'hũgã.",
+        "e_pt": "Mas dentro da sala estava imundo."
+    },
+    {
+        "mbl": "-k",
+        "pt": "eu, me",
+        "t": "pron.",
+        "d": "Sufixo de 1a pessoa do singular (eu/me). (Derivado de '-g').",
+        "e_mbl": "...kak-putex.",
+        "e_pt": "...com receio de que me mate."
+    },
+    {
+        "mbl": "ka",
+        "pt": "fim",
+        "t": "subst.",
+        "d": "Término; conclusão.",
+        "e_mbl": "ha' ka.",
+        "e_pt": "e terminou."
+    },
+    {
+        "mbl": "ka",
+        "pt": "com receio de que",
+        "t": "conj.",
+        "d": "Introduz uma oração que expressa medo ou cautela.",
+        "e_mbl": "kak putex.",
+        "e_pt": "com receio de que ele/ela me mate."
+    },
+    {
+        "mbl": "ka",
+        "pt": "[fim de citação]",
+        "t": "cit.",
+        "d": "Forma abreviada de 'kaxũy'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kãgmãg",
+        "pt": "olhar para cima",
+        "t": "verb. intrans.",
+        "d": "Direcionar o olhar para uma posição elevada.",
+        "e_mbl": "Ha kãgmãg.",
+        "e_pt": "Olhou para cima."
+    },
+    {
+        "mbl": "kahnAn",
+        "pt": "carneiro, ovelha",
+        "t": "subst.",
+        "d": "Animal ovino. (Derivada de 'carneiro').",
+        "e_mbl": "Yeyox te kahnAn ãktux hã hãmyũmmũgãhã.",
+        "e_pt": "Jesus os ensinou, falando de ovelhas (carneiros)."
+    },
+    {
+        "mbl": "kaka",
+        "pt": "ao pé de",
+        "t": "pospos.",
+        "d": "Na base de; próximo à base de algo.",
+        "e_mbl": "Tik te mũkax kaka' pet.",
+        "e_pt": "O indígena fez uma morada ao pé da pedra."
+    },
+    {
+        "mbl": "kakak",
+        "pt": "ao pé de",
+        "t": "pospos.",
+        "d": "Variante de 'kaka'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kakix",
+        "pt": "repetidamente",
+        "t": "mod.",
+        "d": "De modo repetido; várias vezes.",
+        "e_mbl": "Tu' kix kakix.",
+        "e_pt": "Ele o espancou muito."
+    },
+    {
+        "mbl": "kakxaxkuyũxux",
+        "pt": "lagarta",
+        "t": "subst.",
+        "d": "Forma extensa de 'kakxexka'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kakxexka",
+        "pt": "lagarta",
+        "t": "subst.",
+        "d": "Larva de inseto, especialmente de borboleta ou mariposa.",
+        "e_mbl": "Kakxexka te hãm tu' mõg.",
+        "e_pt": "Uma lagarta se arrasta no chão."
+    },
+    {
+        "mbl": "kakxop",
+        "pt": "criança maxakali",
+        "t": "subst.",
+        "d": "Criança do povo Maxakali.",
+        "e_mbl": "Ha kakxop xãnãhã, tu tik xop keppa' nũnnãhã.",
+        "e_pt": "E chamou uma criança e a colocou perante eles."
+    },
+    {
+        "mbl": "kama",
+        "pt": "também",
+        "t": "mod.",
+        "d": "Igualmente; do mesmo modo.",
+        "e_mbl": "Bmũy hãpxapkup kama.",
+        "e_pt": "Eles também fizeram bodoques."
+    },
+    {
+        "mbl": "kamah",
+        "pt": "também",
+        "t": "mod.",
+        "d": "Variante de 'kama'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kãmãnat",
+        "pt": "braçal",
+        "t": "subst.",
+        "d": "Trabalhador braçal. (Derivada de 'camarada').",
+        "e_mbl": "Kãmãnat te' mũy.",
+        "e_pt": "Os braçais fizeram/construiram isso."
+    },
+    {
+        "mbl": "kãmãnok",
+        "pt": "cavalo",
+        "t": "subst.",
+        "d": "Animal equino.",
+        "e_mbl": "Ãyuhuk te kãmãnok yãmũk yãm.",
+        "e_pt": "O não-índio estava montado num cavalo."
+    },
+    {
+        "mbl": "kãmãnok xax",
+        "pt": "sela",
+        "t": "subst.",
+        "d": "Assento para montaria em cavalo.",
+        "e_mbl": "Kãmãnok xax maih.",
+        "e_pt": "A sela é de boa qualidade."
+    },
+    {
+        "mbl": "kãmãnoknãg",
+        "pt": "cavalinho, burro, mula, jumento",
+        "t": "subst.",
+        "d": "Animal de carga equino de menor porte.",
+        "e_mbl": "Tu kãmãnoknãg yãmũk yãm.",
+        "e_pt": "Estava montado num cavalinho/burro/jumento."
+    },
+    {
+        "mbl": "kamũm",
+        "pt": "ponte",
+        "t": "subst.",
+        "d": "Estrutura para atravessar um curso d'água.",
+        "e_mbl": "Tikmũ'ũn te kamũm hã kõnãgkox mep.",
+        "e_pt": "Os maxakalis usam uma ponte para atravessar o córrego."
+    },
+    {
+        "mbl": "kamũn",
+        "pt": "camisa",
+        "t": "subst.",
+        "d": "Peça de vestuário. (Derivada de 'camisa').",
+        "e_mbl": "Bn te kamũn pix.",
+        "e_pt": "A indígena lavou a camisa."
+    },
+    {
+        "mbl": "kamũyãm",
+        "pt": "caminhão",
+        "t": "subst.",
+        "d": "Veículo de carga pesada. (Derivada de 'caminhão').",
+        "e_mbl": "Ãyuhuk te kamũyãm mõgãhã.",
+        "e_pt": "O não-índio dirigiu o caminhão."
+    },
+    {
+        "mbl": "kãmũ",
+        "pt": "ao lado de",
+        "t": "pospos.",
+        "d": "Na lateral de; próximo a.",
+        "e_mbl": "Tu' nõy kãmũ' mõg.",
+        "e_pt": "Ele andou ao lado do outro."
+    },
+    {
+        "mbl": "KÃN",
+        "pt": "[cuspindo]",
+        "t": "onomat.",
+        "d": "Representação do som de cuspir.",
+        "e_mbl": "Tu: kãn, kaxũy.",
+        "e_pt": "Ele cuspiu, assim."
+    },
+    {
+        "mbl": "kãnãm",
+        "pt": "mudar residência",
+        "t": "verb. intrans.",
+        "d": "Trocar de casa ou local de moradia.",
+        "e_mbl": "Tu kãnãm.",
+        "e_pt": "Mudou de casa."
+    },
+    {
+        "mbl": "kanaxax",
+        "pt": "acurá (peixe)",
+        "t": "subst.",
+        "d": "Peixe da família Cichlidae.",
+        "e_mbl": "Tikmũ'ũn te kanaxax yũmmũg.",
+        "e_pt": "Os maxakalis conhecem os acurás."
+    },
+    {
+        "mbl": "kanenãm",
+        "pt": "caldeirão",
+        "t": "subst.",
+        "d": "Panela grande. (Derivada de 'caldeirão').",
+        "e_mbl": "Tute kanenãm kopa kot kutet.",
+        "e_pt": "Ela cozinhou a mandioca num caldeirão."
+    },
+    {
+        "mbl": "KANEP",
+        "pt": "[mordendo]",
+        "t": "onomat.",
+        "d": "Representação do som de uma mordida.",
+        "e_mbl": "Tu mõktu nũte nãy tu nõ: Kanep. Kaxũy.",
+        "e_pt": "A onça o mordeu nas nádegas..."
+    },
+    {
+        "mbl": "kanet",
+        "pt": "roupa gasta, rasgada",
+        "t": "subst.",
+        "d": "Vestimenta velha e em mau estado.",
+        "e_mbl": "Ha kanet mõ'tat.",
+        "e_pt": "Usava trapos."
+    },
+    {
+        "mbl": "kanet",
+        "pt": "cadeia, prisão",
+        "t": "subst.",
+        "d": "Local de encarceramento. (Derivada de 'cadeia').",
+        "e_mbl": "Tu ãmnũy hã kanet ha' mõ'tat.",
+        "e_pt": "Durante a noite levaram-nos para a cadeia/cárcere."
+    },
+    {
+        "mbl": "kãnAy",
+        "pt": "lata",
+        "t": "subst.",
+        "d": "Recipiente metálico.",
+        "e_mbl": "Bn te kot xuk kãnAy kopa.",
+        "e_pt": "Ela guardou a mandioca numa lata."
+    },
+    {
+        "mbl": "kãnAy pet xax",
+        "pt": "prato, disco",
+        "t": "subst.",
+        "d": "Disco de vinil; prato.",
+        "e_mbl": "Tute kãnAy pet xax tix pop.",
+        "e_pt": "Ele comprou dois discos."
+    },
+    {
+        "mbl": "kãnAy xaktux",
+        "pt": "rádio, gravador",
+        "t": "subst.",
+        "d": "Aparelho de som.",
+        "e_mbl": "Ãyuhuk te kãnAy xaktux kax.",
+        "e_pt": "O não-índio tocou um rádio."
+    },
+    {
+        "mbl": "kanimet",
+        "pt": "canivete",
+        "t": "subst.",
+        "d": "Faca pequena e dobrável. (Derivada de 'canivete').",
+        "e_mbl": "Ãtak te nanũy xax xut kanimet hã.",
+        "e_pt": "Papai descascou a laranja com um canivete."
+    },
+    {
+        "mbl": "kanop",
+        "pt": "misturar",
+        "t": "verb. trans.",
+        "d": "Misturar elementos secos num líquido.",
+        "e_mbl": "Tu hehmAn konãg kopa kanop.",
+        "e_pt": "Mexeu o pó do remédio na água."
+    },
+    {
+        "mbl": "kap",
+        "pt": "capa",
+        "t": "subst.",
+        "d": "Vestimenta para proteção contra intempéries. (Derivada de 'capa').",
+        "e_mbl": "Mũnũytut xuxyã te kap mõ'tat.",
+        "e_pt": "O vaqueiro usou uma capa."
+    },
+    {
+        "mbl": "kapat",
+        "pt": "porco",
+        "t": "subst.",
+        "d": "Porco castrado para engorda. (Derivado de 'capado').",
+        "e_mbl": "Ãyuhuk te kapat putex.",
+        "e_pt": "Os civilizados abateram um capado."
+    },
+    {
+        "mbl": "kapex",
+        "pt": "café",
+        "t": "subst.",
+        "d": "Bebida. (Derivada de 'café').",
+        "e_mbl": "Tute kapex xo'op.",
+        "e_pt": "Tomou café."
+    },
+    {
+        "mbl": "kapitõg",
+        "pt": "capitão",
+        "t": "subst.",
+        "d": "Líder; chefe. (Derivada de 'capitão').",
+        "e_mbl": "Kapitõg Yoãm te hãmyũmmũg.",
+        "e_pt": "Capitão João era sábio."
+    },
+    {
+        "mbl": "katamak",
+        "pt": "árvore com casca de fibra",
+        "t": "subst.",
+        "d": "Árvore cuja casca tem fibras usadas para fazer redes.",
+        "e_mbl": "Kakxop te katamak penãhã.",
+        "e_pt": "As crianças viram a árvore [com casca de fibra]."
+    },
+    {
+        "mbl": "kãtuk",
+        "pt": "sela",
+        "t": "subst.",
+        "d": "Assento para montaria.",
+        "e_mbl": "Yã kãtuk maih.",
+        "e_pt": "A sela é boa."
+    },
+    {
+        "mbl": "kax",
+        "pt": "tocar, apelar",
+        "t": "verb. trans.",
+        "d": "Produzir som com um instrumento; chamar.",
+        "e_mbl": "ha anmõg hã' kax.",
+        "e_pt": "Ele tocou o acordeão."
+    },
+    {
+        "mbl": "kax",
+        "pt": "assobiar",
+        "t": "verb. intrans.",
+        "d": "Produzir um som agudo com os lábios.",
+        "e_mbl": "Tu putuxnãg kax ãpak.",
+        "e_pt": "Ouviu um pássaro assobiar."
+    },
+    {
+        "mbl": "kaxix",
+        "pt": "empurrar",
+        "t": "verb. trans.",
+        "d": "Exercer força para deslocar algo.",
+        "e_mbl": "Tu' kaxix.",
+        "e_pt": "Ele o empurrou."
+    },
+    {
+        "mbl": "kaxũy",
+        "pt": "fim de citação",
+        "t": "cit.",
+        "d": "Indica o término de uma fala direta.",
+        "e_mbl": "Axa: –Ok yãg? Kaxũy.",
+        "e_pt": "[Os outros perguntaram:] – Você fincou nela?"
+    },
+    {
+        "mbl": "kaxũy",
+        "pt": "assim",
+        "t": "mod.",
+        "d": "Dessa maneira; deste modo.",
+        "e_mbl": "Tu tik mũg, kaxũy.",
+        "e_pt": "Ele agarrou o homem, assim."
+    },
+    {
+        "mbl": "kaxnut",
+        "pt": "sobrancelha",
+        "t": "subst.",
+        "d": "Arco de pelos acima dos olhos. Variantes: kexnut, kuxnut",
+        "e_mbl": "Ha ãyuhuk kaxnut punethok.",
+        "e_pt": "As sobrancelhas do não-índio eram cheias."
+    },
+    {
+        "mbl": "kaxõy",
+        "pt": "mantídeo (louva-a-deus)",
+        "t": "subst.",
+        "d": "Inseto da ordem Mantodea.",
+        "e_mbl": "Kaxõy te mũm yãmũg yãm.",
+        "e_pt": "O louva-a-deus estava numa árvore."
+    },
+    {
+        "mbl": "kax'ãmi",
+        "pt": "escrever",
+        "t": "verb. intrans.",
+        "d": "Representar a linguagem com símbolos. (Variante de kax'ãmix).",
+        "e_mbl": "Kakxop te tappet tu kax'ãmi.",
+        "e_pt": "As crianças escrevem no papel."
+    },
+    {
+        "mbl": "kax'ãmix",
+        "pt": "escrever",
+        "t": "verb. intrans.",
+        "d": "Variante de kax'ãmi.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kaxyãhã",
+        "pt": "tocar música",
+        "t": "verb. trans.",
+        "d": "Variante de kãyãhã.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kãy",
+        "pt": "malandro",
+        "t": "subst.",
+        "d": "Pessoa astuta ou trapaceira.",
+        "e_mbl": "...ha ta axa kãy te: – XAg. Kaxũy.",
+        "e_pt": "Se diz que o malandro atirou uma flecha [em direção à onça]."
+    },
+    {
+        "mbl": "kãyã",
+        "pt": "cobra",
+        "t": "subst.",
+        "d": "Réptil sem patas.",
+        "e_mbl": "Ha kãyã tep-tex.",
+        "e_pt": "Uma cobra o matou."
+    },
+    {
+        "mbl": "kãyã tut",
+        "pt": "cobra sucuri",
+        "t": "subst.",
+        "d": "Cobra constritora de grande porte.",
+        "e_mbl": "Ha kãyã tut gãy.",
+        "e_pt": "A sucuri é perigosa."
+    },
+    {
+        "mbl": "kãyã xoktupnãg",
+        "pt": "cobra jararaca",
+        "t": "subst.",
+        "d": "Cobra venenosa.",
+        "e_mbl": "Tik te kãyã xoktupnãg penãhã.",
+        "e_pt": "O maxakali viu uma jararaca."
+    },
+    {
+        "mbl": "kãyãhã",
+        "pt": "pulverizar, moer",
+        "t": "verb. trans.",
+        "d": "Reduzir a pó; triturar.",
+        "e_mbl": "Tu kapex xap kãyãhã.",
+        "e_pt": "Ele/ela pulverizou os grãos de café."
+    },
+    {
+        "mbl": "kãyãhã",
+        "pt": "tocar música",
+        "t": "verb. trans.",
+        "d": "Produzir música com um instrumento.",
+        "e_mbl": "Tik te anmõg kãyãhã.",
+        "e_pt": "O homem tocou uma sanfona."
+    },
+    {
+        "mbl": "kãyãk-tok",
+        "pt": "a cria de uma cobra",
+        "t": "subst.",
+        "d": "Filhote de cobra.",
+        "e_mbl": "Kãyãk-tok xohi.",
+        "e_pt": "A cobra tinha cinco crias."
+    },
+    {
+        "mbl": "kãyãnãgxap",
+        "pt": "cobra cascavel",
+        "t": "subst.",
+        "d": "Cobra venenosa com chocalho na cauda.",
+        "e_mbl": "Tik te kãyãnãgxap putex.",
+        "e_pt": "O indígena matou uma cascavel."
+    },
+    {
+        "mbl": "kãyãnãkxap",
+        "pt": "cobra cascavel",
+        "t": "subst.",
+        "d": "Variante de kãyãnãgxap.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kãyãnox",
+        "pt": "cobra jararacuçu",
+        "t": "subst.",
+        "d": "Cobra venenosa de grande porte.",
+        "e_mbl": "Kãyãnox gãy.",
+        "e_pt": "O jararacuçu é uma cobra venenosa."
+    },
+    {
+        "mbl": "kayet",
+        "pt": "ferida",
+        "t": "subst.",
+        "d": "Lesão no corpo.",
+        "e_mbl": "Kayet punethok.",
+        "e_pt": "Tinha muitas feridas."
+    },
+    {
+        "mbl": "ka'ax",
+        "pt": "rabo, ponto final",
+        "t": "subst.",
+        "d": "Apêndice posterior de animais; fim de uma escrita.",
+        "e_mbl": "Kokex te' ka'ax mahap.",
+        "e_pt": "O cachorro abanou o rabo."
+    },
+    {
+        "mbl": "ka' mãm",
+        "pt": "juntos",
+        "t": "mod.",
+        "d": "Em companhia; unidos.",
+        "e_mbl": "Tu ta' mõg ka' mãm kopu",
+        "e_pt": "E foram juntos rio abaixo."
+    },
+    {
+        "mbl": "ka'õgãhã",
+        "pt": "fortalecer, endurecer, animar",
+        "t": "verb. trans.",
+        "d": "Tornar forte ou resistente; encorajar.",
+        "e_mbl": "Yãyã te xõnnũ ka'õgãhã.",
+        "e_pt": "Vovô animou meu irmão (falante feminino)."
+    },
+    {
+        "mbl": "ka'ok",
+        "pt": "duro, forte",
+        "t": "mod.",
+        "d": "Com muita força ou intensidade.",
+        "e_mbl": "Mõ'yõn ka'ok",
+        "e_pt": "Ele dormiu profundamente"
+    },
+    {
+        "mbl": "kegmaih",
+        "pt": "tartaruga",
+        "t": "subst.",
+        "d": "Réptil aquático com casco.",
+        "e_mbl": "Hõmã ãte kegmaih penãhã.",
+        "e_pt": "Ultimamente vi uma tartaruga."
+    },
+    {
+        "mbl": "kegmax",
+        "pt": "tartaruga",
+        "t": "subst.",
+        "d": "Variante de 'kegmaih'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kegmax xexka",
+        "pt": "jabuti",
+        "t": "subst.",
+        "d": "Tartaruga terrestre.",
+        "e_mbl": "Yãymaih te kegmax xexka mãhã.",
+        "e_pt": "Outras tribos comem o jabuti."
+    },
+    {
+        "mbl": "kegõy",
+        "pt": "fumaça",
+        "t": "subst.",
+        "d": "Variante de 'kugõy'.",
+        "e_mbl": "",
+        "e_pt": ""
+    },
+    {
+        "mbl": "kehex",
+        "pt": "melão",
+        "t": "subst.",
+        "d": "Planta e fruto da família Cucurbitaceae.",
+        "e_mbl": "Bn te kehex xap xok.",
+        "e_pt": "A mulher plantou sementes de melão."
+    },
+    {
+        "mbl": "KẼM",
+        "pt": "[impacto de vermelho forte]",
+        "t": "onomat.",
+        "d": "Representação do impacto visual de uma cor vermelha forte e clara.",
+        "e_mbl": "Mõnãyxop te hãpkumep, ha' KẼM!",
+        "e_pt": "Os antepassados estavam passeando, quando de repente [algo brilhou de vermelho forte]."
     }
 ]
