@@ -50,6 +50,7 @@ window.teste_tradutor = function(){
 window.traduzir = function(valor){
 if(tradutorCarregadoComSucesso){
   var traducao = contexto.translate(valor, direcao.de, direcao.para, 0);
+  console.log(direcao);
   tradutorOuput.innerText = traducao;
 }else{
   tradutorOuput.innerText = "A biblioteca WASM lang_it não pode ser carregada!! Entre em contato comigo para me ajudar a corrigir erros de compatibilidade s2";
