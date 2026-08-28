@@ -51,9 +51,13 @@
         <button id="modeMxPt">Maxakalí → Português</button>
     </div>
 
-    <textarea  oninput="traduzir(event.currentTarget.value)" id="translatorInput" class="translatorBox" placeholder="Digite o texto para traduzir..."></textarea>
+    <textarea  id="translatorInput" class="translatorBox" placeholder="Digite o texto para traduzir..."></textarea>
 
-    <div id="translatorOutput" class="translatorOutput"></div>
+    <div class="translatorOutput">
+<strong id="translatorOutput" ></strong>
+<p style="font-size: small;" id="ipaOutput"></p>
+
+    </div>
     <p></p>
     <button onclick="copyResult()" class="actions" style="padding: 8px; background: #f0f0f0; border: 1px solid #ccc;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="24" height="24">
