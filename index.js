@@ -109,6 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     window.traduzir(e.target.value);
                 } else {
                     output.innerText = '';
+                    ipa_output.innerText = '';
                 }
             }, 300);
         });
