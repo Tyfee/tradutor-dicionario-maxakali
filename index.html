@@ -58,6 +58,7 @@
         <button id="modeMxPt">Maxakalí → Português</button>
     </div>
 
+
     <textarea  id="translatorInput" class="translatorBox" placeholder="Digite o texto para traduzir..."></textarea>
 
     <div class="translatorOutput">
@@ -96,42 +97,96 @@
 </div>
 </div>
 
+<div id="downloadSection">
+    Arquivo Template Editável: <a href="https://teste.com">pt_mbl.json</a>
+    <br><br>
+    Arquivo Binário Pronto para Utilização: <a href="https://teste.com">pt_mbl.lang</a>
+    <br><br>
+</div>
+
+<div id="timerSection">
+Esse tradutor é <b>*dinâmico*</b>, os textos são traduzidos em tempo real pelo seu navegador baseado na versão mais recente publicada.
+
+</div>
+<div id="aboutSection" style="display: none">
+Esse website é mantido por mim (<a href="https://github.com/Tyfee">https://github.com/Tyfee</a>) no meu tempo livre.
+<p>É uma prova de conceito implementada em cima do meu projeto lang_it, que permite que tradutores dinâmicos baseados em regras sejam desenvolvidos sem 
+a necessidade de recompilação.
+<br>
+<br>
+O tradutor é um arquivo <b>.lang</b> que é compilado a partir de um template <b>.json</b> e armazena um dicionário de palavras em portguês e sua tradução em Maxakalí,
+um mapa fonético básico para transcrição, e um mapa de construções simétrico para que a biblioteca saiba como mapear afixos, preposições eposposições, regras de sintaxe, casos gramaticais e outras informações de um idioma para outro.
+<br>
+<br>
+A escolha do Maxakalí foi apenas devido a proximidade geográfica, tendo já ouvido falar dos Maxakalí por ter nascido em Minas Gerais e, também pelo meu interesse crescente em preservação de idiomas relativamente pouco documentados.
+<br>
+<br>
+Esse projeto não possui nenhum fim comercial ou de se passar por autoridade no idioma maxakalí. O arquivo de regras e o módulo compilado estão disponíveis para download, edição e uso em qualquer circumstância.
+</div>
+
 <script>
-    const btnDic = document.getElementById("btnDic");
-    const btnTr = document.getElementById("btnTr");
+const btnDic = document.getElementById("btnDic");
+const btnTr = document.getElementById("btnTr");
+const btnDl = document.getElementById("btnDl");
+const btnTm = document.getElementById("btnTm");
+const btnAb = document.getElementById("btnAb");
 
+const modeMxPt = document.getElementById("modeMxPt");
+const modePtMx = document.getElementById("modePtMx");
 
-    const modeMxPt = document.getElementById("modeMxPt");
-    const modePtMx = document.getElementById("modePtMx");
-    const dictionarySection = document.getElementById("dictionarySection");
-    const translatorSection = document.getElementById("translatorSection");
+const dictionarySection = document.getElementById("dictionarySection");
+const translatorSection = document.getElementById("translatorSection");
+const downloadSection = document.getElementById("downloadSection");
+const timerSection = document.getElementById("timerSection");
+const aboutSection = document.getElementById("aboutSection");
 
-
-function copyResult(){
-  var copyText = document.getElementById("translatorOutput");
- 
-  navigator.clipboard.writeText(copyText.innerText);
-
-
+function copyResult() {
+    var copyText = document.getElementById("translatorOutput");
+    navigator.clipboard.writeText(copyText.innerText);
 }
 
-    btnDic.onclick = () => {
-        
-        btnTr.classList.remove("selected");
-        dictionarySection.style.display = "block";
-        translatorSection.style.display = "none";
-        
-        btnDic.classList.add("selected");
-    };
+// Function now handles both button styling AND section toggling
+function showSection(selectedBtn, selectedSection) {
+    const allButtons = [btnTr, btnDic, btnDl, btnTm, btnAb];
+    const allSections = [translatorSection, dictionarySection, downloadSection, timerSection, aboutSection];
 
-    btnTr.onclick = () => {
-        
-        btnDic.classList.remove("selected");
-        dictionarySection.style.display = "none";
-        translatorSection.style.display = "block";
+    for (var i = 0; i < allButtons.length; i++) {
+        if (allButtons[i] === selectedBtn) {
+            allButtons[i].classList.add("selected");
+        } else {
+            allButtons[i].classList.remove("selected");
+        }
+    }
 
-            btnTr.classList.add("selected");
-    };
+    // Toggle section visibility
+    for (var j = 0; j < allSections.length; j++) {
+        if (allSections[j] === selectedSection) {
+            allSections[j].style.display = "block";
+        } else {
+            allSections[j].style.display = "none";
+        }
+    }
+}
+
+btnDic.onclick = () => {
+    showSection(btnDic, dictionarySection);
+};
+
+btnTr.onclick = () => {
+    showSection(btnTr, translatorSection);
+};
+
+btnDl.onclick = () => {
+    showSection(btnDl, downloadSection);
+};
+
+btnTm.onclick = () => {
+    showSection(btnTm, timerSection);
+};
+
+btnAb.onclick = () => {
+    showSection(btnAb, aboutSection);
+};
 
     let translationMode = "pt-mx";
 const tradutorOuput = document.getElementById("translatorOutput");
